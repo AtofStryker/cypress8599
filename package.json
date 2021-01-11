@@ -1,0 +1,14 @@
+{
+  "name": "repro",
+  "version": "1.0.0",
+  "description": "Reproduction for cypress case #8599",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --project nested"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.2.1"
+  }
+}

@@ -1,0 +1,1 @@
+Cypress.Commands.add("visitCypress", () => cy.visit("https://cypress.io/"))
